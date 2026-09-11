@@ -1,0 +1,4 @@
+interface:
+  display_name: "16:9 真人精品短剧"
+  short_description: "将剧本转为连贯分镜、光影表演设计与视频提示词，并完成分级质量审查"
+  default_prompt: "使用 $live-action-drama-16x9 分析我的剧本，设计16:9真人短剧镜头、运镜、光影与人物表演，输出4—15秒整数生成单元及提示词，并审查修订。"
